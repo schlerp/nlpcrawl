@@ -1,0 +1,13 @@
+
+# ignore byte compiled
+__pycache__
+*.py[cod]
+
+# vscode stuff
+.vscode
+
+# Sphinx documentation
+docs/_build/
+
+# virtual env stuff
+venv
